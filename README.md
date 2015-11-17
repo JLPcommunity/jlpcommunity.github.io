@@ -1,2 +1,3 @@
-# jlpcommunity.github.io
-JLP Community Static Website
+# JLP Community Website
+
+JLP Community website in static form.
